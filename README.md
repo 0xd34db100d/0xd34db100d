@@ -1,6 +1,6 @@
 <h1 align="center">Heya, I'm John Strider👋</h1>
 
-## <picture><img src = "https://raw.githubusercontent.com/Exitiale/Exitiale/main/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "./mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://media.giphy.com/media/34WHPS5XLMcHm/giphy.gif" width = 250px></picture>
 
@@ -67,12 +67,12 @@
 
 
 ## <b><img src="./mdImages/handshake.gif" width ="100">Let's contribute :3</b>
-<div align='left'
-
+<div align='left'>
 <a href="https://t.me/John_Strider" target="_blank">
     <img src="https://img.shields.io/badge/Telegram: Exitiale-%2326A5E4.svg?color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt=Telegram/>
     </a>
 <a href="https://linktr.ee/johnstrider" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-%2343E55E.svg?color=43E55E4&style=for-the-badge&logo=linktree&logoColor=white" alt=Linktree/>
+    </a>
 </div>
 
