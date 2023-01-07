@@ -69,7 +69,7 @@
 ## <b><img src="./mdImages/handshake.gif" width ="100">Let's contribute :3</b>
 <div align='left'>
 <a href="https://t.me/John_Strider" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram: Exitiale-%2326A5E4.svg?color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt=Telegram/>
+    <img src="https://img.shields.io/badge/Telegram: John_Strider-%2326A5E4.svg?color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt=Telegram/>
     </a>
 <a href="https://linktr.ee/johnstrider" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-%2343E55E.svg?color=43E55E4&style=for-the-badge&logo=linktree&logoColor=white" alt=Linktree/>
