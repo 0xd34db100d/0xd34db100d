@@ -10,7 +10,7 @@
 - 🎓 Currently learning in college as I&C Engineer
 - 💻 Sometimes develop software
 - 📻 I love radio stuff
-- 📚 Psychology is interesting (and social engineering too😈)
+- 📚 Psychology is interesting
 - 🎵 Mostly working with music and photos, checkout my **[Linktree](https://linktr.ee/johnstrider)**
 - 📫 Feel free to contact me on **[Telegram](https://t.me/John_Strider)**
 
