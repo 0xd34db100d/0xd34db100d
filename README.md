@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://cdn3.emoji.gg/emojis/8649_FoxxoTail.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media2.giphy.com/media/YQitE4YNQNahy/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media.tenor.com/VrzXhtoSwcsAAAAd/hacker-typing.gif" width = 250px></picture>
 
 <br>
 
