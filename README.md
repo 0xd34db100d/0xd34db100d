@@ -2,7 +2,7 @@
 
 ## <picture><img src = "./mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.giphy.com/media/34WHPS5XLMcHm/giphy.gif" width = 250px></picture>
+<picture> <img align="right" src="https://d.furaffinity.net/art/feve/1579803460/1579803460.feve_rexthefoxylullaby.gif" width = 250px></picture>
 
 <br>
 
