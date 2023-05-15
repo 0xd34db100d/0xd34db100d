@@ -56,6 +56,7 @@
     ![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
     ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
     ![Kali](https://img.shields.io/badge/Kali-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+    ![Debian](https://img.shields.io/badge/Debian-%23A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 </p>
 
