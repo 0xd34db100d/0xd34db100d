@@ -55,6 +55,7 @@
     ![Windows](https://img.shields.io/badge/Windows%2010-%230078D6?style=for-the-badge&logo=windows&logoColor=white)
     ![Manjaro](https://img.shields.io/badge/Manjaro-%2335BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
     ![Android](https://img.shields.io/badge/Android-%233DDC84?style=for-the-badge&logo=android&logoColor=white)
+    ![Kali](https://img.shields.io/badge/Kali-%557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 </p>
 
