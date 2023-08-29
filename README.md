@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://cdn3.emoji.gg/emojis/8649_FoxxoTail.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://media.tenor.com/jy2f0iC2YGIAAAAd/zoolander-stare.gif" width = 400px></picture>
+<picture> <img align="right" src="https://64.media.tumblr.com/ebdd9c78ed7277d8881ce1bc5db7c64f/5a89be8b073e87d9-43/s540x810/475e81ea739d261043edc5a83985966a3f34d0e3.gifv" width = 400px></picture>
 
 <br>
 
