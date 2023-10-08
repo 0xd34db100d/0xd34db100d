@@ -12,7 +12,6 @@
 - 📻 I love radio stuff
 - 📚 Psychology is interesting
 - 🎵 Mostly working with music and photos, checkout my **[Linktree](https://linktr.ee/johnstrider)**
-- 📫 Feel free to contact me on **[Telegram](https://t.me/John_Strider)**
 
 <br><br>
 
@@ -63,9 +62,6 @@
 
 ## <b><img src="https://media.tenor.com/fhWl5LL9HWIAAAAi/hacker-find-the-hackers.gif" width ="100">Let's contribute! :3</b>
 <div align='left'>
-<a href="https://t.me/John_Strider" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram: John_Strider-%2326A5E4.svg?color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt=Telegram/>
-    </a>
 <a href="https://linktr.ee/johnstrider" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-%2343E55E.svg?color=43E55E4&style=for-the-badge&logo=linktree&logoColor=white" alt=Linktree/>
     </a>
