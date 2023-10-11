@@ -59,10 +59,5 @@
 </p>
 
 
-## <b><img src="https://media.tenor.com/fhWl5LL9HWIAAAAi/hacker-find-the-hackers.gif" width ="100">Let's contribute! :3</b>
-<div align='left'>
-<a href="https://linktr.ee/johnstrider" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-%2343E55E.svg?color=43E55E4&style=for-the-badge&logo=linktree&logoColor=white" alt=Linktree/>
-    </a>
 </div>
 
