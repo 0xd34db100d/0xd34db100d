@@ -9,9 +9,6 @@
 - ⚡ Playing CTF's, I love pentesting
 - 🎓 Currently learning in college as I&C Engineer
 - 💻 Sometimes develop software
-- 📻 I love radio stuff
-- 🎵 Mostly working with music and photos, checkout my **[Linktree](https://linktr.ee/johnstrider)**
-
 <br><br>
 
 ## <img src="https://media.tenor.com/H4ABXBX_rAgAAAAi/raspiet-wolf.gif" width ="50"><b> Skills</b>
