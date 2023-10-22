@@ -1,4 +1,4 @@
-<h1 align="center">Heya, I'm John Strider👋</h1>
+<h1 align="center">Heya, I'm D34D👋</h1>
 
 ## <picture><img src = "https://cdn3.emoji.gg/emojis/8649_FoxxoTail.gif" width = 50px></picture> **About me**
 
